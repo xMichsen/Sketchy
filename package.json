@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://Xmichsen.github.io/Sketchy/",
+  "homepage": "https://xMichsen.github.io/Sketchy/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
